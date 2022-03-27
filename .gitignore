@@ -1,7 +1,3 @@
-data/dataset.csv
-data/testset.csv
-data/trainset.csv
-data/validationset.csv
 data/encoded_trainset.pkl
 data/encoded_validationset.pkl
 data/encoded_testset.pkl
