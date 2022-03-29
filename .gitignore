@@ -2,3 +2,4 @@ data/encoded_trainset.pkl
 data/encoded_validationset.pkl
 data/encoded_testset.pkl
 data/*.pkl
+data/*.csv
